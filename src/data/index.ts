@@ -1,5 +1,7 @@
 import { Product, Category, Benefit, Feature, NavItem, FooterSection, Accessory } from '@/types'
 
+export type { Product, Category, Benefit, Feature, NavItem, FooterSection, Accessory }
+
 export const products: Product[] = [
   {
     id: 'nova-pro-15',
